@@ -1,0 +1,16 @@
+{
+  "name": "nodeTutorial",
+  "version": "1.0.0",
+  "description": "My node tutorial",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Solomon Onyes",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "lodash": "^4.17.20"
+  }
+}
